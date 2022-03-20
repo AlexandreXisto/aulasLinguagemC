@@ -1,0 +1,6 @@
+﻿  Origem.cpp
+C:\Users\cxale\Desktop\FACULDADE ADS\LINGUAGEM DE PROGRAMAÇÃO\Linguagem C\Projetos\Tutorial\Tutorial\Origem.cpp(13,10): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+C:\Users\cxale\Desktop\FACULDADE ADS\LINGUAGEM DE PROGRAMAÇÃO\Linguagem C\Projetos\Tutorial\Tutorial\Origem.cpp(13,10): message : espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+C:\Users\cxale\Desktop\FACULDADE ADS\LINGUAGEM DE PROGRAMAÇÃO\Linguagem C\Projetos\Tutorial\Tutorial\Origem.cpp(13,10): message : o argumento variadic 2 ausente é requerido pela cadeia de formato '%c'
+C:\Users\cxale\Desktop\FACULDADE ADS\LINGUAGEM DE PROGRAMAÇÃO\Linguagem C\Projetos\Tutorial\Tutorial\Origem.cpp(13,10): message : esse argumento é usado como um tamanho do buffer
+  Tutorial.vcxproj -> C:\Users\cxale\Desktop\FACULDADE ADS\LINGUAGEM DE PROGRAMAÇÃO\Linguagem C\Projetos\Tutorial\x64\Debug\Tutorial.exe
